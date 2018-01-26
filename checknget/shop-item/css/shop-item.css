@@ -1,0 +1,86 @@
+/*!
+ * Start Bootstrap - Shop Item (https://startbootstrap.com/template-overviews/shop-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-item/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+    /*background-image: url("../img/ball.jpg");*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-image: url("../img/ball.jpg");
+/*background-image: url("../img/graded-back.jpg");*/
+
+}
+
+
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    /*height: auto;*/
+    height: auto%;
+
+}
+
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    background-color: #99ccff ;
+    /*background-color: green;*/
+  }
+}
+
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: 'Amatic SC', cursive;
+    /*font-family: inherit;*/
+    font-weight: 600;
+    line-height: 1.2;
+    color: inherit;
+}
+
+.h1, h1 {
+    font-size: 4rem;
+}
+
+h3 {
+
+    
+
+
+
+	font-family: 'Bellefair', serif;
+}
+
+
+/*               #99ccff       #66ffff          */ 
+
+
+
+
+
+
+
